@@ -35,7 +35,7 @@ Used mvvm architecture with the help of Dagger2 Dependency injection and DataBin
 
 
 
-![Architecture](https://benoitpasquier.com/images/2018/01/mvvm-pattern.png)
+![Architecture](https://i.postimg.cc/L6FRwMPv/Screenshot-20191104-091746.jpg)
 
 
 >Flow will be like this -> Fetching the result from API -> proccessing thre result->rendering UI
@@ -46,7 +46,7 @@ Used mvvm architecture with the help of Dagger2 Dependency injection and DataBin
 - Details screen - > details of the selected item
 
 # 1- HomeScreen
-![screen1](https://pasteboard.co/IF53stP.jpg)
+![screen1](https://i.postimg.cc/GtGRtXWk/Screenshot-20191104-091824.jpg)
 
 ##### User can able to search them item with title of displaying items
 
