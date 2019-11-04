@@ -17,6 +17,7 @@ Dependencies used for base framework
   - Glide
   - AndroidX framework
   - Kotlin
+  - RXJava
 # NyTimes API
 
   - Obtain  api key from https://developer.nytimes.com/
