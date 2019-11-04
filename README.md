@@ -87,3 +87,4 @@ We can now get coverage (on Android Studio) by: right clicking in our project â†
 | OkHttp |
 | Dagger 2 |
 | AndroidX Libraries |
+| RXJava |
